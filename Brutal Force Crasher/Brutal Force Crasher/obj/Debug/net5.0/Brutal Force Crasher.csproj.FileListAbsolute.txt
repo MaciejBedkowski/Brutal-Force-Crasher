@@ -1,0 +1,18 @@
+C:\Users\mathi\OneDrive\Pulpit\Brutal Force Crasher\Brutal Force Crasher\bin\Debug\net5.0\Brutal Force Crasher.exe
+C:\Users\mathi\OneDrive\Pulpit\Brutal Force Crasher\Brutal Force Crasher\bin\Debug\net5.0\Brutal Force Crasher.deps.json
+C:\Users\mathi\OneDrive\Pulpit\Brutal Force Crasher\Brutal Force Crasher\bin\Debug\net5.0\Brutal Force Crasher.runtimeconfig.json
+C:\Users\mathi\OneDrive\Pulpit\Brutal Force Crasher\Brutal Force Crasher\bin\Debug\net5.0\Brutal Force Crasher.runtimeconfig.dev.json
+C:\Users\mathi\OneDrive\Pulpit\Brutal Force Crasher\Brutal Force Crasher\bin\Debug\net5.0\Brutal Force Crasher.dll
+C:\Users\mathi\OneDrive\Pulpit\Brutal Force Crasher\Brutal Force Crasher\bin\Debug\net5.0\ref\Brutal Force Crasher.dll
+C:\Users\mathi\OneDrive\Pulpit\Brutal Force Crasher\Brutal Force Crasher\bin\Debug\net5.0\Brutal Force Crasher.pdb
+C:\Users\mathi\OneDrive\Pulpit\Brutal Force Crasher\Brutal Force Crasher\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\mathi\OneDrive\Pulpit\Brutal Force Crasher\Brutal Force Crasher\obj\Debug\net5.0\Brutal Force Crasher.csproj.AssemblyReference.cache
+C:\Users\mathi\OneDrive\Pulpit\Brutal Force Crasher\Brutal Force Crasher\obj\Debug\net5.0\Brutal Force Crasher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\OneDrive\Pulpit\Brutal Force Crasher\Brutal Force Crasher\obj\Debug\net5.0\Brutal Force Crasher.AssemblyInfoInputs.cache
+C:\Users\mathi\OneDrive\Pulpit\Brutal Force Crasher\Brutal Force Crasher\obj\Debug\net5.0\Brutal Force Crasher.AssemblyInfo.cs
+C:\Users\mathi\OneDrive\Pulpit\Brutal Force Crasher\Brutal Force Crasher\obj\Debug\net5.0\Brutal Force Crasher.csproj.CoreCompileInputs.cache
+C:\Users\mathi\OneDrive\Pulpit\Brutal Force Crasher\Brutal Force Crasher\obj\Debug\net5.0\Brutal Force Crasher.csproj.CopyComplete
+C:\Users\mathi\OneDrive\Pulpit\Brutal Force Crasher\Brutal Force Crasher\obj\Debug\net5.0\Brutal Force Crasher.dll
+C:\Users\mathi\OneDrive\Pulpit\Brutal Force Crasher\Brutal Force Crasher\obj\Debug\net5.0\ref\Brutal Force Crasher.dll
+C:\Users\mathi\OneDrive\Pulpit\Brutal Force Crasher\Brutal Force Crasher\obj\Debug\net5.0\Brutal Force Crasher.pdb
+C:\Users\mathi\OneDrive\Pulpit\Brutal Force Crasher\Brutal Force Crasher\obj\Debug\net5.0\Brutal Force Crasher.genruntimeconfig.cache

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Brutal Force Crasher/1.0.0": {
+        "dependencies": {
+          "SharpCompress": "0.30.0"
+        },
+        "runtime": {
+          "Brutal Force Crasher.dll": {}
+        }
+      },
+      "SharpCompress/0.30.0": {
+        "runtime": {
+          "lib/net5.0/SharpCompress.dll": {
+            "assemblyVersion": "0.30.0.0",
+            "fileVersion": "0.30.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Brutal Force Crasher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpCompress/0.30.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VIFLOPm+hDSkTd4s1Ftb6BgSMveFqzwiiSvgcWq11I+7tu2qdtkn5dtyK1vr5CPnH8bNYmc4vjr6m7kkTAt9GA==",
+      "path": "sharpcompress/0.30.0",
+      "hashPath": "sharpcompress.0.30.0.nupkg.sha512"
+    }
+  }
+}
